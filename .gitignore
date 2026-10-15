@@ -1,0 +1,18 @@
+# 中继密钥：每次启动由 relay.js 自动重新生成（crypto.randomBytes），切勿提交
+scripts/relay/token.txt
+
+# 运行时状态目录：agents.ps1 启动时自动创建（New-Item -Force），不纳入版本控制
+scripts/home/
+scripts/out/
+scripts/tmp/
+
+# 日志
+*.log
+
+# 客户交付物：不属于本技能，切勿提交
+panjin-zhongbei/
+
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
+*.swp
