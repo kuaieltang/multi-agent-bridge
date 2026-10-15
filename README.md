@@ -97,3 +97,7 @@ DSH ──┬─ 直连：agents.ps1（在 DSH 沙箱内，需要审批，因为
 | WorkBuddy (CodeBuddy 2.164.0) | ✅ | ✅ | native |
 | 千问办公 (Qoder 1.1.59) | ✅ | 默认禁用 | native |
 | 豆包工作 (Doubao Work 2.25.18) | ⛔ 无编程接口 | ⛔ | — |
+
+## 姊妹仓库
+
+- [codebase-oss-borrow-audit](https://github.com/kuaieltang/codebase-oss-borrow-audit) — 审阅代码库、对标开源、输出 P0/P1/P2 分级可借鉴清单的审计技能
